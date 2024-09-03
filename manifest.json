@@ -1,0 +1,35 @@
+{
+  "name": "Sepolia Testnet",
+  "timestamp": "2024-02-08T15:14:10.184Z",
+  "version": {
+    "major": 1,
+    "minor": 0,
+    "patch": 0
+  },
+  "tokens": [
+    {
+      "chainId": 421614,
+      "name": "Dai Stablecoin",
+      "address": "0x9bc8388dD439fa3365B1F78A81242aDBB4677759",
+      "symbol": "DAI",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x6B175474E89094C44Da98b954EedeAC495271d0F/logo.png"
+    },
+    {
+      "chainId": 421614,
+      "name": "Tether USD",
+      "address": "0x93d67359A0f6F117150a70fDde6BB96782497248",
+      "symbol": "USDT",
+      "decimals": 6,
+      "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xdAC17F958D2ee523a2206206994597C13D831ec7/logo.png"
+    },
+    {
+      "chainId": 421614,
+      "name": "Wrapped Ether",
+      "address": "0x1bdc540dEB9Ed1fA29964DeEcCc524A8f5e2198e",
+      "symbol": "WETH",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2/logo.png"
+    }
+  ]
+}
